@@ -1,0 +1,5 @@
+name: AutoCobwebRemove
+version: 1.0.0
+main: pl.example.autocobwebremove.AutoCobwebRemove
+api-version: '1.21'
+description: Automatically removes player-placed cobwebs with a breaking animation.
